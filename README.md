@@ -3,9 +3,9 @@
 <img  alt="GIF" align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style = "margin-top:090px; margin-right:500px;" />
 
   
-# Tanmay Khandelwal here
-- 👨🏽‍💻  Graduated from BITS-Pilani in May 2021;
-- 🤔  Very much interested in Data Structures and Algorithms;
+# Tanmay Khandelwal
+- 👨🏽‍💻  Graduated in Electrical and Electronics Eng. from BITS-Pilani in May 2021;
+- 🤔  Fascinated by Algorithms 
 - 📫  How to reach me: [Gmail](f20170106@pilani.bits-pilani.ac.in);
 
 # Frameworks
@@ -43,9 +43,6 @@ https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ## Get in touch
 
