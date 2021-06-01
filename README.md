@@ -1,12 +1,12 @@
   
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"></h2>
+## Hello World! 
 <img  alt="GIF" align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style = "margin-top:090px; margin-right:500px;" />
 
   
 # Tanmay Khandelwal
-- 👨🏽‍💻  Graduated in Electrical and Electronics Eng. from BITS-Pilani in May 2021;
-- 🤔  Fascinated by Algorithms 
-- 📫  How to reach me: [Gmail](f20170106@pilani.bits-pilani.ac.in);
+- 👨🏽‍💻  Graduated in Electrical and Electronics Eng. from BITS-Pilani in May 2021
+- 🤔  Fascinated by Machines and Algos. 
+- 📫  Mail me at: f20170106@pilani.bits-pilani.ac.in
 
 # Frameworks
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -37,7 +37,7 @@
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/Mongo-DB-orange)
-https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 #### Others
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
