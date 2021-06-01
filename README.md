@@ -41,6 +41,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Links
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f20170106@pilani.bits-pilani.ac.in)](mailto:f20170106@pilani.bits-pilani.ac.in)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/)](https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f20170106@pilani.bits-pilani.ac.in)](mailto:f20170106@pilani.bits-pilani.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/)](https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/)
 
