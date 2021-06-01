@@ -5,7 +5,7 @@
   
 ## Tanmay Khandelwal
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
->- Graduated in Electrical and Electronics Eng. (BITS Pilani-2021).
+>- Graduated in Electrical and Electronics Eng. (BITS Pilani-2021)
 >- A passionate self-taught Backend web developer and NLP enthusiast.
 >- Fascinated by Machines and Algos. 
 
@@ -41,12 +41,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Links
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f20170106@pilani.bits-pilani.ac.in)](mailto:f20170106@pilani.bits-pilani.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/)](https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/)
 
-<p align="left">
-	<a href="https://github.com/rythmm24"><img src="https://img.shields.io/github/followers/Imran109.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/tanmay-khandelwal-8a386a199/">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
