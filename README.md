@@ -4,7 +4,7 @@
 
   
 ## Tanmay Khandelwal
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### About Me:
 >- Graduated in Electrical and Electronics Eng. (BITS Pilani-2021)
 >- A passionate self-taught Backend web developer and NLP enthusiast.
 >- Fascinated by Machines and Algos. 
