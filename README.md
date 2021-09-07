@@ -1,7 +1,5 @@
   
 ## > Hello, world! 
-<img  alt="GIF" align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style = "margin-top:090px; margin-right:500px;" />
-
   
 ## Tanmay Khandelwal
 ### About Me:
